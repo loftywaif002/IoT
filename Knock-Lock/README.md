@@ -33,6 +33,8 @@
   <li>Coonect the middle or white wire of the servo motor to the Arduino pin 9</li>
  </ul>
 </p>
+
+<a href="https://gist.github.com/loftywaif002/c4ed06e710eab1a9c3b16d78d807a0a6">See The Code Here</a>
 ## License
 
 MIT © 
