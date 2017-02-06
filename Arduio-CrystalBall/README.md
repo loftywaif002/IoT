@@ -1,6 +1,6 @@
 # CrystalBall
 
-<img src="https://image.ibb.co/iZsdFa/setup.jpg" height="350" width="200">
+<img src="https://image.ibb.co/iZsdFa/setup.jpg" height="400" width="200">
 <img src="https://image.ibb.co/g6Z8Fa/schematic.jpg" height="300" width="400">
 
 <p align="center">
@@ -44,8 +44,8 @@
   </ul>
 </p>
 
-<h1>Code</h1>
-<script src="https://gist.github.com/loftywaif002/537325166ae4194cb13db02921c9bbdb.js"></script>
+<a href="https://gist.github.com/loftywaif002/537325166ae4194cb13db02921c9bbdb">Code Link</a>
+
 
 ## License
 
