@@ -45,7 +45,7 @@
 </p>
 
 <h1>Code Used</h1>
-`
+<code>
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 
@@ -104,7 +104,7 @@ void loop(){
   prevSwitchState = switchState;
 }
 
-`
+</code>
 
 ## License
 
