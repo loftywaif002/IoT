@@ -1,5 +1,5 @@
 # KNOCK-LOCK
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://sendvid.com/t2atr1e1)
+[![Everything Is AWESOME](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/PgSmZbtFHxg "Servo-knock-block")
 
 <p align="center">
   <h2> For Latest Arduino IDE </h2> <a href="arduino.cc/download">arduino.cc/download</a>  
