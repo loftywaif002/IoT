@@ -21,7 +21,7 @@
   </ul>
 </p>
 
-
+<h3>A Piezo when connected to 5v, can detect vibrations that can be fed in the arduino as analog input, and from there we can process the data to check if the number of knock is within the range we defined </h3>
 ## License
 
 MIT © 
