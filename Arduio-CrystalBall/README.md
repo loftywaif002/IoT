@@ -1,9 +1,10 @@
 # CrystalBall
 
-<img src="http://i68.tinypic.com/rbjdoi.png" height="520" width="320">
+<img src="https://ibb.co/mPcpMF" height="520" width="320">
 
 <p align="center">
-  <h2 https://ibb.co/mPcpMF</h2>
+  <h2> For Latest Arduino IDE </h2> <a>arduino.cc/download</a>
+  
 </p>
 
 
