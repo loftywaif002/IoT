@@ -44,6 +44,8 @@
   </ul>
 </p>
 
+<h1>Code</h1>
+<script src="https://gist.github.com/loftywaif002/537325166ae4194cb13db02921c9bbdb.js"></script>
 
 ## License
 
