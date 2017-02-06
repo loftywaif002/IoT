@@ -15,6 +15,9 @@
     <li>220 ohm Resistor</li> <img src="https://image.ibb.co/nDhjov/Screen_Shot_2017_02_06_at_11_16_08_AM.png" height="50" width="100">
     <li>Potentiometer</li><img src="https://image.ibb.co/cpPava/potentiometer.png" height="80" width="50">
     <li>LCD Screen</li><img src="https://image.ibb.co/c5u8Fa/lcd.png" height="80" width="150">
+    <li>BreadBoard</li><img src="https://image.ibb.co/h2NpMF/breadboard.png" height="80" width="120">
+    <li>JumperWires</li><img src="https://image.ibb.co/b3okva/jumper.png" height="50" width="50">
+    <li>Arduino Uno</li><img src="https://image.ibb.co/etKEov/arduino.png" height="80" width="100">
   </ul>
 </p>
 
