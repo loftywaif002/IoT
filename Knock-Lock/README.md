@@ -1,5 +1,5 @@
 # KNOCK-LOCK
-[![Everything Is AWESOME](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/PgSmZbtFHxg "Servo-knock-block")
+[![Everything Is AWESOME](https://image.ibb.co/f0vZMF/IMG_0910.jpg)](https://youtu.be/PgSmZbtFHxg "Servo-knock-block")
 
 <p align="center">
   <h2> For Latest Arduino IDE </h2> <a href="arduino.cc/download">arduino.cc/download</a>  
