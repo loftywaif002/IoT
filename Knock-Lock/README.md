@@ -22,6 +22,19 @@
 </p>
 
 <h3>A Piezo when connected to 5v, can detect vibrations that can be fed in the arduino as analog input, and from there we can process the data to check if the number of knock is within the range we defined </h3>
+
+<p>
+ <ul>
+  <li>On both ends of the bread board, the vertical strips should be connected to the 5v and GND pin in the arduino</li>
+  <li>Put a switch on the board, 1 end goes to the "-" strip of the board, anther end goes to pin 2 (PWM), another end goes to "-" strip of the board through a 10khm resitor</li>
+  <li>A peizo has to pins, one end goes to "+" stip of 5v on the board,the other goes to A0 pin on the arduino boaed as well as "-" strip of the bread board through a 220 ohm resistor </li>
+  <li>Add leds, the cathode (short-leg) goes in the "-" strip or ground and 220 ohm resistor series with all the anodes</li>
+  <li>Connect the resitors to Arduino pin, 3,4 5</li>
+  <li>Connect the servo motor's red wire to 5v strip on the bread board and black wire to the "-" strip / ground</li>
+  <li>Connect a 100 uF capacitor to handle irregularities in the voltage</li>
+  <li>Coonect the middle or white wire of the servo motor to the Arduino pin 9</li>
+ </ul>
+</p>
 ## License
 
 MIT © 
