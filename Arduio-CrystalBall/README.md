@@ -10,7 +10,7 @@
 <p align="center">
   <h2> Item List </h2> 
   <ul>
-    <li>List1</li>
+    <li>Switch</li> <img src="https://image.ibb.co/g7ZKMF/switch.png" height="50" width="50">
   </ul>
 </p>
 
