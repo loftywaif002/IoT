@@ -14,6 +14,7 @@
     <li>10k ohm Resistor</li> <img src="https://image.ibb.co/ieTDgF/resistor.png" height="50" width="100">
     <li>220 ohm Resistor</li> <img src="https://image.ibb.co/nDhjov/Screen_Shot_2017_02_06_at_11_16_08_AM.png" height="50" width="100">
     <li>Potentiometer</li><img src="https://image.ibb.co/cpPava/potentiometer.png" height="80" width="50">
+    <li>LCD Screen</li><img src="https://image.ibb.co/c5u8Fa/lcd.png" height="80" width="150">
   </ul>
 </p>
 
