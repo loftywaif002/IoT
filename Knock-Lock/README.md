@@ -1,6 +1,5 @@
 # KNOCK-LOCK
-
-<iframe src="http://sendvid.com/t2atr1e1" height="400" width="300" frameborder="0" ></iframe>
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://sendvid.com/t2atr1e1)
 
 <p align="center">
   <h2> For Latest Arduino IDE </h2> <a href="arduino.cc/download">arduino.cc/download</a>  
