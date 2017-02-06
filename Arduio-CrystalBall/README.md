@@ -1,7 +1,7 @@
 # CrystalBall
 
-<img src="https://image.ibb.co/iZsdFa/setup.jpg" height="400" width="200">
-<img src="https://image.ibb.co/g6Z8Fa/schematic.jpg" height="300" width="400">
+<img src="https://image.ibb.co/iZsdFa/setup.jpg" height="450" width="200">
+<img src="https://s27.postimg.org/7ondu4vdf/schematic1.jpg" height="300" width="400">
 
 <p align="center">
   <h2> For Latest Arduino IDE </h2> <a href="arduino.cc/download">arduino.cc/download</a>  
